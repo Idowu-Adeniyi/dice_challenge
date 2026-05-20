@@ -7,7 +7,7 @@ A clean, interactive, and responsive web-based dice game where players compete a
 ## 🚀 Live Demo
 
 Check out the live game and test your luck here:  
-👉 **[Launch Live Project Link](https://github.io)** 
+👉 **[Launch Live Project Link]([https://github.io](https://idowu-adeniyi.github.io/dice_challenge/)** 
 
 ---
 
@@ -42,7 +42,7 @@ The **Dice Challenge** is a lighthearted, two-player browser game built to pract
 
 ## 🕹️ How to Play
 
-1. Open the **[Live Demo Link](https://github.io)**.
+1. Open the **[Live Demo Link]([https://github.io](https://idowu-adeniyi.github.io/dice_challenge/)**.
 2. Click the **"Roll Dice"** (or Refresh) button at the bottom of the screen.
 3. Look at the dice faces! The player with the higher number wins the round.
 4. The title banner at the top will instantly display the winner!
@@ -60,7 +60,7 @@ To run this project locally on your machine, follow these steps:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repo-name
+   cd dice_challenge
    ```
 
 3. **Open the game:**
